@@ -1,2 +1,2 @@
 # Enterocytozoon-hepatopenaei-biogeography-project
-Fastq data for E. hepatopenaei from China and India
+Fastq data for E. hepatopenaei from Thailand and India
